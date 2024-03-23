@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "question": "큰 인물은 늦게야 두각을 나타내어 성공한다는 말",
+    "correctAnswer": "대기만성",
+    "showed": false
+  },
+  {
+    "id": 2,
+    "question": "간사한 꾀로 남을 속여 농락함을 이르는 말",
+    "correctAnswer": "조삼모사",
+    "showed": false
+  },
+  {
+    "id": 3,
+    "question": "무슨 일이든 결국 옳은 이치대로 돌아간다",
+    "correctAnswer": "사필귀정",
+    "showed": false
+  },
+  {
+    "id": 4,
+    "question": "고생 끝에 즐거움이 옴을 이르는 말",
+    "correctAnswer": "고진감래",
+    "showed": false
+  },
+  {
+    "id": 5,
+    "question": "자나깨나 잊지 못함",
+    "correctAnswer": "오매불망",
+    "showed": false
+  }
+]
